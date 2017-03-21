@@ -18,6 +18,7 @@ namespace Currency
             InitializeComponent();
         }
 
+        //Github Clone version
         private void btnConvert_Click(object sender, EventArgs e)
         {
             try
